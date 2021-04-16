@@ -1,9 +1,7 @@
 # Final Code
 
 The DarkCovidNet_Models.ipynb file contains:
-  1. The DarkCovidNet model (from Ozturk T, Talo M, Yildirim EA, Baloglu UB, Yildirim O, Acharya UR. Automated    
-      detection of COVID-19 cases using deep neural networks with X-ray images. Computers in biology and medicine.  
-      2020 Jun 1;121:103792)
+  1. The DarkCovidNet model (from Ozturk T, Talo M, Yildirim EA, Baloglu UB, Yildirim O, Acharya UR. Automated detection of COVID-19 cases using deep neural networks with X-ray images. Computers in biology and medicine. 2020 Jun 1;121:103792)
   2. A modified DarkCovidNet model 
   3. Another modified DarkCovidNet model (this model was added after the code demo with the TA in the Teams meeting) 
 
