@@ -14,3 +14,5 @@ The DarkCovidNet model for three classes.ipynb file contains the DarkCovidNet co
 
 The ImageProcessing.m file was the MATLAB script that was used to create image labels for the original, unbalanced dataset that was to trained the DarkCovidNet model in the paper. The All_labels_CSV.csv file contains the labels for all of the X-ray images. This file is used in the Keras/Tensorflow implementation in the MyDarkCovidNet.ipynb file. 
 
+**Data**
+Zip files of the data were too large to be pushed to this repo. Please contact me if you would like to look at the data. 
