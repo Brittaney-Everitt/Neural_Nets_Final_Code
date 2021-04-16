@@ -1,4 +1,4 @@
-# Neural Nets Final Code
+# Final Code
 
 The DarkCovidNet_Models.ipynb file contains:
   1. The DarkCovidNet model (from Ozturk T, Talo M, Yildirim EA, Baloglu UB, Yildirim O, Acharya UR. Automated    
